@@ -1,0 +1,76 @@
+html, body{
+    height: 100%;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+/* .container{
+    height:20%;
+    width:50%;
+    background-color: rgba(247, 231, 9, 0.785);
+
+}
+.diff1{
+    /* position: absolute; */
+    /* position:relative; */
+    /* position:fixed; */
+    /* position:sticky;
+    background-color: rgb(236, 0, 0);
+    /* left: 50.9%; */
+
+
+
+    /* pseudo classes */
+
+.container{
+    height:60%;
+    width: 50%;
+    background-color: azure;
+
+}
+
+
+.box{
+    height:20%;
+    background-color: red;
+    margin-bottom:10px;
+
+}
+
+.box:first-child{
+    background-color: teal;
+    
+}
+
+.box:nth-child(2){
+    background-color: yellow;
+}
+
+.box:nth-child(3){
+    background-color: green;
+}
+button{
+    width:50%;
+    transition: 20s;
+    
+}
+
+
+button:hover{
+    background-color: green;
+    color: white;
+    transform: scale(2);
+}
+
+input{
+    width:49%;
+    outline: none;
+
+
+    
+}
+input:focus{
+    border:4px solid gray;
+}
