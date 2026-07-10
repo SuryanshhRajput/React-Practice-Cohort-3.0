@@ -14,7 +14,7 @@ const RHF = () => {
 
         className="p-2 border rounded border-gray-400" type="text" placeholder='product name' />
         
-        <input 
+        <input  
         className="p-2 border rounded border-gray-400" type="text" placeholder='price' />
         
          <input 
